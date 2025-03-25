@@ -1,5 +1,5 @@
 {
-    "name": "spatie/interactive-slack-notification-channel",
+    "name": "cldt/interactive-slack-notification-channel",
     "description": "Send interactive Slack notifications in Laravel apps",
     "keywords": [
         "spatie",
